@@ -35,15 +35,6 @@ cd tourtravels
 ```
 
 
-## 1️⃣ Clone the Repository
-
-```bash
-git clone <https://github.com/Abhay-Dwivedi2002 Indian-Tourism-Website-Project.git>
-
-cd tourtravels
-```
-
-
 ## 2️⃣ Create Virtual Environment
 
 ```bash
